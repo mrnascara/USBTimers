@@ -14,4 +14,7 @@ to use USBTimers on 5.40 and below, transfer the 8xp file to your device. on 5.4
 The TI 84 Plus CE And The TI 84 Plus CE Python are the only two Calculators supported.
 
 ## Compiling from source
-To Compile USBTimers from source, Install the CE-Programming Toolchain from this Link: 'https://github.com/CE-Programming/toolchain' then Download the zip file and run 'make' then USBTimers will be compiled.
+To Compile USBTimers from source, Install the CE-Programming Toolchain from this Link: 'https://github.com/CE-Programming/toolchain' then Download the zip file of this Repository and run 'make' then USBTimers will be compiled.
+
+## CEmu emulation support
+At this moment, CEmu is not supported,the App runs way too fast and glitches are very common.
