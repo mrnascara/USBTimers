@@ -17,4 +17,4 @@ The TI 84 Plus CE And The TI 84 Plus CE Python are the only two Calculators supp
 To Compile USBTimers from source, Install the CE-Programming Toolchain from this Link: 'https://github.com/CE-Programming/toolchain' then Download the zip file of this Repository and run 'make' then USBTimers will be compiled.
 
 ## CEmu emulation support
-At this moment, CEmu is not supported,the App runs way too fast and glitches are very common.
+At this moment, CEmu should work on version 0.1.1 and higher.
